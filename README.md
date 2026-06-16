@@ -1,5 +1,7 @@
 # Power-Bi-sales-dashboard
 Data Analytics project built with Power BI to analyze business performance and generate actionable insights.
+
+
 WHAT’S HAPPENING ?
 • I WORKED ON AN E-COMMERCE CUSTOMER CHURN ANALYSIS PROJECT USING POWER BI.
 • THE GOAL OF THIS PROJECT WAS TO IDENTIFY WHY CUSTOMERS ARE LEAVING AND HOW WE CAN REDUCE CHURN.
